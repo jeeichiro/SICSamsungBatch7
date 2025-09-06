@@ -1,3 +1,4 @@
+#Muhammad Jahron - Tim Banana
 from utils import konversi_suhu
 
 print("=== KONVERSI SUHU ===")
@@ -15,3 +16,4 @@ try:
     
 except ValueError:
     print("Error : Masukkan angka yang valid untuk suhu. ")
+
