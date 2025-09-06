@@ -1,3 +1,4 @@
+#Muhammad Jahron - Tim Banana
 def konversi_suhu(nilai,dari,ke):
     dari = dari.lower()
     ke = ke.lower()
@@ -24,4 +25,5 @@ def konversi_suhu(nilai,dari,ke):
         return(c * 9/5) + 32
     elif ke == "k":
         return c + 273.15
+
     
